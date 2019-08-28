@@ -18,7 +18,9 @@ NPM是随同NodeJS一起安装的包管理工具，能解决NodeJS代码部署�
  
  ## vue 和 node 关系
 如果你只是想单纯的使用vue做你的前端开发的辅助插件的话，那么你只需要直接<script>引用vue.js便也可以实现vue的双向绑定的功能
+  
 如果是做前后分离接口服务化之后，前台页面也得整合，node提供整合各个页面所需的驱动使用webpack进行模块化开发
+而且使用vue-cli脚手架搭建项目的时候需要nodejs
   
 ## 下载安装nodejs
 http://nodejs.cn/download/
