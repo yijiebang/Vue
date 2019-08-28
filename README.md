@@ -30,8 +30,13 @@ http://nodejs.cn/download/
 安装完成node，node有自带的npm，可以直接在cmd中，找到nodeJs安装的路径下，进行命令行全局安装vue-cli 
 ## 安装vue-cli用于帮助搭建所需的模板框架
 - npm install --global vue-cli
+
 ## 创建项目
 -vue init webpack aa
+
+## 项目中安装组件
+ npm install axios --save
+ 
 ## Build Setup
 
 ``` bash
