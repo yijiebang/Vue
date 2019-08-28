@@ -21,13 +21,17 @@ NPM是随同NodeJS一起安装的包管理工具，能解决NodeJS代码部署�
   
 如果是做前后分离接口服务化之后，前台页面也得整合，node提供整合各个页面所需的驱动使用webpack进行模块化开发
 而且使用vue-cli脚手架搭建项目的时候需要nodejs
-  
+
+# vue项目搭建依赖node的npm包管理器  
+
 ## 下载安装nodejs
 http://nodejs.cn/download/
 
 安装完成node，node有自带的npm，可以直接在cmd中，找到nodeJs安装的路径下，进行命令行全局安装vue-cli 
+## 安装vue-cli用于帮助搭建所需的模板框架
 - npm install --global vue-cli
-
+## 创建项目
+-vue init webpack aa
 ## Build Setup
 
 ``` bash
